@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace Jewerly.Migrations
 {
-    public partial class Init : Migration
+    public partial class InitialM : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
